@@ -1,3 +1,8 @@
+---
+title: "Hello World"
+author: "Franjo Pehar"
+date: "30. listopada 2025."
+---
 # Hello-World
 Moj prvi Git Hub repozitorij
 ## Uvod u Markdown
